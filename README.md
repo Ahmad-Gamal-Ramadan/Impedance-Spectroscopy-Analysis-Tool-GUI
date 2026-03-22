@@ -43,3 +43,4 @@ A Python-based graphical user interface (GUI) application for analyzing electroc
 ### 📂 How to Run
 ```bash
 python impedance_gui.py
+The txt file should contain Frequency Z' Z'' columns 
