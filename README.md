@@ -44,4 +44,5 @@ A Python-based graphical user interface (GUI) application for analyzing electroc
 ```bash
 python impedance_gui.py
 The txt file should contain Frequency Z' Z'' columns
-https://github.com/Ahmad-Gamal-Ramadan/Impedance-Spectroscopy-Analysis-Tool-GUI/blob/main/images/txt-file.PNG?raw=true
+
+![image alt](https://github.com/Ahmad-Gamal-Ramadan/Impedance-Spectroscopy-Analysis-Tool-GUI/blob/main/images/txt-file.PNG?raw=true)
